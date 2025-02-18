@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.capawesome.capacitorjs.plugins.mlkit.barcodescanning.capacitor-mlkit-barcode-scanning-mergeReleaseResources-30:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamadrezakavoosi/.gradle/caches/8.9/transforms/17cc202d4cebce60d48954b3dafab8e5/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.capawesome.capacitorjs.plugins.mlkit.barcodescanning.capacitor-mlkit-barcode-scanning-merged_res-32:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamadrezakavoosi/.gradle/caches/8.9/transforms/17cc202d4cebce60d48954b3dafab8e5/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
